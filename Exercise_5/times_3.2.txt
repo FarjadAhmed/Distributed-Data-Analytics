@@ -1,0 +1,50 @@
+tasks : 1, maps: 1 $
+total time is: 52 $
+tasks : 2, maps: 1 $
+total time is: 72 $
+tasks : 4, maps: 1 $
+total time is: 47 $
+tasks : 8, maps: 1 $
+total time is: 78 $
+tasks : 10, maps: 1 $
+total time is: 86 $
+tasks : 1, maps: 2 $
+total time is: 75 $
+tasks : 2, maps: 2 $
+total time is: 63 $
+tasks : 4, maps: 2 $
+total time is: 61 $
+tasks : 8, maps: 2 $
+total time is: 59 $
+tasks : 10, maps: 2 $
+total time is: 80 $
+tasks : 1, maps: 4 $
+total time is: 60 $
+tasks : 2, maps: 4 $
+total time is: 46 $
+tasks : 4, maps: 4 $
+total time is: 70 $
+tasks : 8, maps: 4 $
+total time is: 77 $
+tasks : 10, maps: 4 $
+total time is: 75 $
+tasks : 1, maps: 8 $
+total time is: 63 $
+tasks : 2, maps: 8 $
+total time is: 74 $
+tasks : 4, maps: 8 $
+total time is: 80 $
+tasks : 8, maps: 8 $
+total time is: 96 $
+tasks : 10, maps: 8 $
+total time is: 92 $
+tasks : 1, maps: 10 $
+total time is: 82 $
+tasks : 2, maps: 10 $
+total time is: 80 $
+tasks : 4, maps: 10 $
+total time is: 89 $
+tasks : 8, maps: 10 $
+total time is: 96 $
+tasks : 10, maps: 10 $
+total time is: 101 $
